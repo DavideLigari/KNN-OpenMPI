@@ -1,0 +1,7 @@
+__pycache__
+.DS_Store
+.vscode/
+*.o
+Report/*
+!Report/serial-analysis/
+!Report/paper.pdf
